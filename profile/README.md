@@ -12,4 +12,6 @@ MeshLive is free and open-source software (GPL-3.0-or-later). Phones talk direct
 
 **Please read before relying on it:** MeshLive has not had an independent security review, and its Bluetooth announcements currently carry a stable identifier that can be used to recognise a phone over time. Use it for testing and feedback, not where your safety depends on it. Each app's README has the details.
 
+**How this was built:** with heavy AI assistance. Most of the code was written by Anthropic's Claude (through Claude Code), directed by the maintainer, who decides what to build, tests it on real phones and reviews the changes. The benchmark numbers are real device runs, failures included. Nothing here has had an independent security audit. See the "How this was built" section of each repository's README for the details.
+
 **Ways to help:** test on your phone and file a device report (the Android and iPhone repositories both have a form), report bugs, or share benchmark results. Security problems go through each repository's private "Report a vulnerability" route, never a public issue. See the [contributing guide](https://github.com/MeshLive/.github/blob/main/CONTRIBUTING.md) and [security policy](https://github.com/MeshLive/.github/blob/main/SECURITY.md).
