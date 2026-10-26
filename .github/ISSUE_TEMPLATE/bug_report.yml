@@ -1,0 +1,41 @@
+name: Bug report
+description: Something failed (connection, video, audio, crash, pairing).
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not attach photos, videos, recordings or screenshots of other people, and do not post Bluetooth addresses,
+        device serial numbers, signing keys, private file paths or email addresses. Security problems (authentication,
+        encryption, key handling): do not post details here. Use the repository's Security tab, "Report a
+        vulnerability"; see the security policy.
+  - type: input
+    id: device
+    attributes:
+      label: Device(s)
+      description: Both devices if it involves two (for example "Windows 11 PC -> Samsung S24").
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system and version
+      placeholder: "Windows 11 24H2, Android 14"
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: App version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected, what happened, and how often
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce

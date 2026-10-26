@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/MeshLive/.github/blob/main/SECURITY.md
+    about: Never post security details in a public issue. The security policy lists the private reporting route for each repository.
+  - name: Questions and support
+    url: https://github.com/MeshLive/.github/blob/main/SUPPORT.md
+    about: Where to look first, and where to ask.

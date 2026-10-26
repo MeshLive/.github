@@ -1,0 +1,63 @@
+name: Device test report
+description: Tell us how MeshLive worked on your phone or PC. Reports where everything worked are just as useful.
+title: "[Device] <model>, <OS version>"
+labels: ["device-compat", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Answer for **your own device**, tested with at least one other device running MeshLive. Choose **Pass** only if it
+        worked for a few minutes without restarting the app or Bluetooth, **Partial** if it worked but badly,
+        **Fail** if it did not, and **Not tested** if you did not try it. Do not post photos, recordings or names of other
+        people.
+  - type: input
+    id: device
+    attributes:
+      label: Device model
+      placeholder: "Samsung SM-A556E (Galaxy A55), or a laptop model with its Bluetooth adapter"
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system and version
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: App version or commit
+    validations:
+      required: true
+  - type: input
+    id: other
+    attributes:
+      label: The other device(s) you tested with
+    validations:
+      required: true
+  - type: dropdown
+    id: calls
+    attributes:
+      label: Voice and video calls
+      options: ["Pass", "Partial", "Fail", "Not tested"]
+    validations:
+      required: true
+  - type: dropdown
+    id: watch
+    attributes:
+      label: Watching a live stream
+      options: ["Pass", "Partial", "Fail", "Not tested"]
+    validations:
+      required: true
+  - type: dropdown
+    id: golive
+    attributes:
+      label: Going live
+      options: ["Pass", "Partial", "Fail", "Not tested"]
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: What happened
+      description: Anything slow, frozen or broken, and how you tested.

@@ -1,0 +1,13 @@
+# Text files are stored and checked out with LF everywhere.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+# Binary files
+*.jar binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.flac binary
+*.so binary
+*.apk binary

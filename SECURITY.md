@@ -10,7 +10,8 @@ Report it privately to the repository that is affected:
 | Affected | Report |
 | --- | --- |
 | The Android app, or the protocol itself | [meshlive-android](https://github.com/MeshLive/meshlive-android/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-android/blob/main/SECURITY.md) |
-| The iPhone app | [meshlive-ios](https://github.com/MeshLive/meshlive-ios/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-ios/blob/main/SECURITY.md) |
+| The Windows app | [meshlive-windows](https://github.com/MeshLive/meshlive-windows/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-windows/blob/main/SECURITY.md) |
+| The iPhone or Mac app | [meshlive-ios](https://github.com/MeshLive/meshlive-ios/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-ios/blob/main/SECURITY.md) |
 | The benchmark data (for example personal data that slipped into a result) | [meshlive-benchmarks](https://github.com/MeshLive/meshlive-benchmarks/security/advisories/new) |
 
 Use the repository's **Security** tab and **Report a vulnerability**. If you cannot, open a public issue that says
@@ -18,5 +19,5 @@ only "security report", with no details, keys or proof of concept, and a maintai
 
 MeshLive is a volunteer project: response times are best effort, with no bounty. We aim to acknowledge a report
 within about a week and to agree a disclosure date with you, no later than 90 days after the report without a better
-reason. The scope, what to include and the known limitations are in the Android policy linked above; the iPhone app
-speaks the same protocol, so a protocol flaw affects both.
+reason. The scope, what to include and the known limitations are in the Android policy linked above; the Windows, iPhone and Mac
+apps speak the same protocol, so a protocol flaw affects all of them.
