@@ -9,15 +9,15 @@ real contribution.
 | --- | --- | --- |
 | [meshlive-android](https://github.com/MeshLive/meshlive-android) | You use the Android app, or want to change the protocol, the Android app or the host tools | [CONTRIBUTING.md](https://github.com/MeshLive/meshlive-android/blob/main/CONTRIBUTING.md) |
 | [meshlive-windows](https://github.com/MeshLive/meshlive-windows) | You have a Windows PC, or want to change the Windows app | [CONTRIBUTING.md](https://github.com/MeshLive/meshlive-windows/blob/main/CONTRIBUTING.md) |
-| [meshlive-ios](https://github.com/MeshLive/meshlive-ios) | You have an iPhone or a Mac, or want to change the iPhone or Mac app | [CONTRIBUTING.md](https://github.com/MeshLive/meshlive-ios/blob/main/CONTRIBUTING.md) |
+| [meshlive-apple](https://github.com/MeshLive/meshlive-apple) | You have an iPhone or a Mac, or want to change the iPhone or Mac app | [CONTRIBUTING.md](https://github.com/MeshLive/meshlive-apple/blob/main/CONTRIBUTING.md) |
 | [meshlive-benchmarks](https://github.com/MeshLive/meshlive-benchmarks) | You want to question, reproduce or add to the measured results | [README](https://github.com/MeshLive/meshlive-benchmarks#sharing-your-results-and-citing-this-data) |
 | [MeshLive.github.io](https://github.com/MeshLive/MeshLive.github.io) | You found a mistake on the website, the privacy policy or the child safety page | Open an issue or a pull request there |
 
 The most valuable contributions today:
 
 - **A device test report** from your phone, tested with at least one other phone running MeshLive. Reports where
-  everything worked are as useful as failures. The Android, Windows and iPhone repositories have a form on their **New issue** page.
-- **iPhone and Mac testing.** The iPhone app has had almost no hardware testing, and the Mac app is experimental, so owners are especially welcome.
+  everything worked are as useful as failures. The Android, Windows and Apple repositories have a form on their **New issue** page.
+- **iPhone and Mac testing.** The iPhone app has not been tested on a real iPhone yet, and the Mac app is experimental, so owners are especially welcome.
 - **Windows testing** on more PCs and Bluetooth adapters.
 - **Bug reports** with both phone models, OS versions and the app version or commit.
 

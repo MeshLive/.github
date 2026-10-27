@@ -11,7 +11,7 @@ Report it privately to the repository that is affected:
 | --- | --- |
 | The Android app, or the protocol itself | [meshlive-android](https://github.com/MeshLive/meshlive-android/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-android/blob/main/SECURITY.md) |
 | The Windows app | [meshlive-windows](https://github.com/MeshLive/meshlive-windows/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-windows/blob/main/SECURITY.md) |
-| The iPhone or Mac app | [meshlive-ios](https://github.com/MeshLive/meshlive-ios/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-ios/blob/main/SECURITY.md) |
+| The iPhone or Mac app | [meshlive-apple](https://github.com/MeshLive/meshlive-apple/security/advisories/new), and read its [SECURITY.md](https://github.com/MeshLive/meshlive-apple/blob/main/SECURITY.md) |
 | The benchmark data (for example personal data that slipped into a result) | [meshlive-benchmarks](https://github.com/MeshLive/meshlive-benchmarks/security/advisories/new) |
 
 Use the repository's **Security** tab and **Report a vulnerability**. If you cannot, open a public issue that says
