@@ -16,6 +16,8 @@ No internet, no SIM, no account.
   <img alt="Status: beta" src="https://img.shields.io/badge/Status-beta-181717?style=flat" />
 </p>
 
+<a href="https://play.google.com/store/apps/details?id=io.github.meshlive.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" /></a>
+&nbsp;
 <a href="https://github.com/MeshLive/meshlive-android/releases/latest"><img alt="Get it on GitHub" src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" height="60" /></a>
 &nbsp;
 <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MeshLive/meshlive-android"><img alt="Get it on Obtainium" src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="60" /></a>
@@ -32,7 +34,7 @@ One protocol, several apps. An iPhone, a Windows PC and an Android phone running
 
 | Platform | Repository | Status |
 | --- | --- | --- |
-| **Android 10+** | [meshlive-android](https://github.com/MeshLive/meshlive-android) | **Beta** (0.4.0-beta). On [GitHub releases](https://github.com/MeshLive/meshlive-android/releases/latest) and [Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MeshLive/meshlive-android), and in Google Play closed testing. The reference implementation: it holds the protocol specification, test vectors and host tools. |
+| **Android 10+** | [meshlive-android](https://github.com/MeshLive/meshlive-android) | **Beta** (0.4.0-beta). On [Google Play](https://play.google.com/store/apps/details?id=io.github.meshlive.app), [GitHub releases](https://github.com/MeshLive/meshlive-android/releases/latest) and [Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MeshLive/meshlive-android). The reference implementation: it holds the protocol specification, test vectors and host tools. |
 | **Windows** | [meshlive-windows](https://github.com/MeshLive/meshlive-windows) | **Beta** (0.2.0). Unsigned tester zip on [GitHub releases](https://github.com/MeshLive/meshlive-windows/releases/latest). Calls with Android phones passed hands-on checks in both directions; watching and going live are experimental and off by default (see its README). No Microsoft Store build yet. |
 | **iPhone** | [meshlive-apple](https://github.com/MeshLive/meshlive-apple) | **Source build only.** Tested in the iPhone simulator; not yet on a real iPhone. iPhone testers wanted. |
 | **Mac** | [meshlive-apple](https://github.com/MeshLive/meshlive-apple) | **Experimental.** A native Mac app in the same repository as the iPhone app. Calls with Android phones passed hands-on checks in both directions. Source build only. |
@@ -53,3 +55,5 @@ MeshLive is beta software and has not had an independent security review. On And
 - **Security problems** go through each repository's private **Report a vulnerability** route, never a public issue. See the [security policy](https://github.com/MeshLive/.github/blob/main/SECURITY.md).
 
 Start with the [contributing guide](https://github.com/MeshLive/.github/blob/main/CONTRIBUTING.md), and please follow the [code of conduct](https://github.com/MeshLive/.github/blob/main/CODE_OF_CONDUCT.md). Questions: [SUPPORT.md](https://github.com/MeshLive/.github/blob/main/SUPPORT.md), or write to [meshlive.dev@gmail.com](mailto:meshlive.dev@gmail.com).
+
+<sub>Google Play and the Google Play logo are trademarks of Google LLC.</sub>
