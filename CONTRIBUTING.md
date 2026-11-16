@@ -17,7 +17,7 @@ The most valuable contributions today:
 
 - **A device test report** from your phone, tested with at least one other phone running MeshLive. Reports where
   everything worked are as useful as failures. The Android, Windows and Apple repositories have a form on their **New issue** page.
-- **iPhone and Mac testing.** The iPhone app has not been tested on a real iPhone yet, and the Mac app is experimental, so owners are especially welcome.
+- **iPhone and Mac testing.** The iPhone app is on the App Store and was tested on one iPhone model, and the Mac app is not on the Mac App Store yet, so reports from other iPhones and from Macs are especially welcome.
 - **Windows testing** on more PCs and Bluetooth adapters.
 - **Bug reports** with both phone models, OS versions and the app version or commit.
 
