@@ -15,13 +15,13 @@ No internet, no SIM, no account.
   <img alt="Data CC BY 4.0" src="https://img.shields.io/badge/Data-CC%20BY%204.0-FF3B30?style=flat" />
 </p>
 
-<a href="https://apps.apple.com/app/id6834136798"><img alt="Download on the App Store" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" height="40" /></a>
+<a href="https://apps.apple.com/app/id6834136798"><img alt="Download on the App Store" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" height="40" align="middle" /></a>
 &nbsp;
-<a href="https://play.google.com/store/apps/details?id=io.github.meshlive.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" /></a>
+<a href="https://play.google.com/store/apps/details?id=io.github.meshlive.app"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60" align="middle" /></a>
 &nbsp;
-<a href="https://github.com/MeshLive/meshlive-android/releases/latest"><img alt="Get it on GitHub" src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" height="60" /></a>
+<a href="https://github.com/MeshLive/meshlive-android/releases/latest"><img alt="Get it on GitHub" src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" height="60" align="middle" /></a>
 &nbsp;
-<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MeshLive/meshlive-android"><img alt="Get it on Obtainium" src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="60" /></a>
+<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MeshLive/meshlive-android"><img alt="Get it on Obtainium" src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" height="60" align="middle" /></a>
 
 <p><b>Downloads for every platform, demo videos and help: <a href="https://meshlive.github.io">meshlive.github.io</a></b></p>
 
